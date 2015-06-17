@@ -1,0 +1,160 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Coursera Calendars//NONSGML//EN
+X-WR-CALNAME:Programming for Everybody (Python)
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:972508|quiz|125|hard
+DTSTART:20150826T025900Z
+DTEND:20150826T035900Z
+DTSTAMP:20150826T025900Z
+CREATED:20150610T221639Z
+DESCRIPTION:If you submit any time after the hard deadline\, you will not receive credit. Note that deadlines are sometimes extended\, so check the website for the latest information.
+LAST-MODIFIED:20150826T025900Z
+LOCATION:https://class.coursera.org/pythonlearn-005/quiz/start?quiz_id=125
+SUMMARY:Pyt4All: Final Exam (Hard Deadline)
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:972508|quiz|221|hard
+DTSTART:20150617T025500Z
+DTEND:20150617T035500Z
+DTSTAMP:20150617T025500Z
+CREATED:20150610T221639Z
+DESCRIPTION:If you submit any time after the hard deadline\, you will not receive credit. Note that deadlines are sometimes extended\, so check the website for the latest information.
+LAST-MODIFIED:20150617T025500Z
+LOCATION:https://class.coursera.org/pythonlearn-005/quiz/start?quiz_id=221
+SUMMARY:Pyt4All: Week 1  (Due 16-June) (Hard Deadline)
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:972508|quiz|227|hard
+DTSTART:20150617T025500Z
+DTEND:20150617T035500Z
+DTSTAMP:20150617T025500Z
+CREATED:20150610T221639Z
+DESCRIPTION:If you submit any time after the hard deadline\, you will not receive credit. Note that deadlines are sometimes extended\, so check the website for the latest information.
+LAST-MODIFIED:20150617T025500Z
+LOCATION:https://class.coursera.org/pythonlearn-005/quiz/start?quiz_id=227
+SUMMARY:Pyt4All: Week 2 Quiz (Due 16-June) (Hard Deadline)
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:972508|quiz|231|hard
+DTSTART:20150624T025500Z
+DTEND:20150624T035500Z
+DTSTAMP:20150624T025500Z
+CREATED:20150610T221639Z
+DESCRIPTION:If you submit any time after the hard deadline\, you will not receive credit. Note that deadlines are sometimes extended\, so check the website for the latest information.
+LAST-MODIFIED:20150624T025500Z
+LOCATION:https://class.coursera.org/pythonlearn-005/quiz/start?quiz_id=231
+SUMMARY:Pyt4All: Week 3 Quiz (Due 23-June) (Hard Deadline)
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:972508|quiz|233|hard
+DTSTART:20150701T025500Z
+DTEND:20150701T035500Z
+DTSTAMP:20150701T025500Z
+CREATED:20150610T221639Z
+DESCRIPTION:If you submit any time after the hard deadline\, you will not receive credit. Note that deadlines are sometimes extended\, so check the website for the latest information.
+LAST-MODIFIED:20150701T025500Z
+LOCATION:https://class.coursera.org/pythonlearn-005/quiz/start?quiz_id=233
+SUMMARY:Pyt4All: Week 4 Quiz (Due 20-June) (Hard Deadline)
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:972508|quiz|237|hard
+DTSTART:20150708T025500Z
+DTEND:20150708T035500Z
+DTSTAMP:20150708T025500Z
+CREATED:20150610T221639Z
+DESCRIPTION:If you submit any time after the hard deadline\, you will not receive credit. Note that deadlines are sometimes extended\, so check the website for the latest information.
+LAST-MODIFIED:20150708T025500Z
+LOCATION:https://class.coursera.org/pythonlearn-005/quiz/start?quiz_id=237
+SUMMARY:Pyt4All: Week 5 Quiz (Due 7-July) (Hard Deadline)
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:972508|quiz|239|hard
+DTSTART:20150715T025500Z
+DTEND:20150715T035500Z
+DTSTAMP:20150715T025500Z
+CREATED:20150610T221639Z
+DESCRIPTION:If you submit any time after the hard deadline\, you will not receive credit. Note that deadlines are sometimes extended\, so check the website for the latest information.
+LAST-MODIFIED:20150715T025500Z
+LOCATION:https://class.coursera.org/pythonlearn-005/quiz/start?quiz_id=239
+SUMMARY:Pyt4All: Week 6 Quiz (Due 14-July) (Hard Deadline)
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:972508|quiz|241|hard
+DTSTART:20150722T025500Z
+DTEND:20150722T035500Z
+DTSTAMP:20150722T025500Z
+CREATED:20150610T221639Z
+DESCRIPTION:If you submit any time after the hard deadline\, you will not receive credit. Note that deadlines are sometimes extended\, so check the website for the latest information.
+LAST-MODIFIED:20150722T025500Z
+LOCATION:https://class.coursera.org/pythonlearn-005/quiz/start?quiz_id=241
+SUMMARY:Pyt4All: Week 7 Quiz (Due 21-July) (Hard Deadline)
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:972508|quiz|243|hard
+DTSTART:20150729T025500Z
+DTEND:20150729T035500Z
+DTSTAMP:20150729T025500Z
+CREATED:20150610T221639Z
+DESCRIPTION:If you submit any time after the hard deadline\, you will not receive credit. Note that deadlines are sometimes extended\, so check the website for the latest information.
+LAST-MODIFIED:20150729T025500Z
+LOCATION:https://class.coursera.org/pythonlearn-005/quiz/start?quiz_id=243
+SUMMARY:Pyt4All: Quiz Week 8 (Due 28-July) (Hard Deadline)
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:972508|quiz|245|hard
+DTSTART:20150805T025500Z
+DTEND:20150805T035500Z
+DTSTAMP:20150805T025500Z
+CREATED:20150610T221639Z
+DESCRIPTION:If you submit any time after the hard deadline\, you will not receive credit. Note that deadlines are sometimes extended\, so check the website for the latest information.
+LAST-MODIFIED:20150805T025500Z
+LOCATION:https://class.coursera.org/pythonlearn-005/quiz/start?quiz_id=245
+SUMMARY:Pyt4All: Week 9 Quiz (Due 4-Aug) (Hard Deadline)
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:972508|quiz|263|hard
+DTSTART:20150812T025500Z
+DTEND:20150812T035500Z
+DTSTAMP:20150812T025500Z
+CREATED:20150610T221639Z
+DESCRIPTION:If you submit any time after the hard deadline\, you will not receive credit. Note that deadlines are sometimes extended\, so check the website for the latest information.
+LAST-MODIFIED:20150812T025500Z
+LOCATION:https://class.coursera.org/pythonlearn-005/quiz/start?quiz_id=263
+SUMMARY:Pyt4All: Week 10 Quiz (Due 11-Aug) (Hard Deadline)
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
